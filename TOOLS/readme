@@ -1,0 +1,6 @@
+这里放的都是一些工具
+augmentation可以进行数据增强
+pic process可以对图像进行二值化处理，可以根据图像的明暗自动调用合适的算法
+rename用来将文件重命名
+transform xml-txt可以将voc格式的文件转变成yolo的txt格式，并自动划分好测试集和训练集
+process1可以用来去掉图像的透明度，方便进行增强
